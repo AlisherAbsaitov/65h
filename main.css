@@ -1,0 +1,166 @@
+*{
+   box-sizing: border-box;
+}
+
+body{
+   margin: 0;
+   background-color:grey;
+}
+
+.container{
+   width: 1240px;
+   padding: 0 20px;
+}
+
+/* .hero{
+   padding-top: 274px;
+   padding-bottom: 234px;
+   background-image:url("./images/mainback.png");
+   background-repeat:no-repeat;
+   background-size:50% 50vh;
+   background-position: center top; 
+} */
+
+/* .hero-box{
+   width: 689px;
+} */
+/* 
+.hero-persentage{
+   font-family: "Inter";
+   font-style: normal;
+   font-weight: 400;
+   font-size: 24px;
+   line-height: 29px;
+   color: #ffb12b;
+   margin-bottom: 10px;
+}
+
+.hero-title{
+   font-family: "Inter","Arial",sans-serif;
+   font-style: normal;
+   font-weight: 600;
+   font-size: 64px;
+   line-height: 74px;
+   color: #333;
+   margin-top: 0;
+   margin-bottom: 30px;
+}
+
+.hero-desc-box{
+   width: 535px;
+}
+
+.hero-desc{
+   font-family: "Inter","Arial",sans-serif;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 26px;
+   color: #333333;
+   margin-top: 0;
+   margin-bottom: 40px;
+}
+
+.hero-link{
+   background-color: #18bd4f;
+   border-radius: 5px;
+   font-family: "Inter";
+   font-style: normal;
+   font-weight: 500;
+   display: inline-block;
+   font-size: 18px;
+   line-height: 22px;
+   color: #fff;
+   padding: 9px 25px;
+   text-decoration: none;
+} */
+
+
+
+/* .box{
+   color:red;
+   width: 200px;
+   height: 200px;
+   margin-top: 100px;
+   margin-left: 50px;
+   background-color:darkcyan;
+   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+.desc-two{
+   display: none;
+}
+
+.desc-three{
+   display:none;
+}
+
+.box:hover .desc-one{
+   display: none;
+}
+
+.box:hover .desc-two{
+   display: block;
+   color:yellow;
+}
+
+.box:active .desc-three{
+   display: block;
+   color: blue;
+}
+
+.box:hover{
+   background-color:red;
+   
+}
+
+.box:active{
+   background-color:yellow;
+   color:darkcyan;
+} */
+
+
+.form-surname-input{
+   background: #fff;
+   width: 275px;
+   border-radius: 60px;
+   border:none;
+   padding: 15px 41px 13px ;
+}
+
+.form-surname-input::placeholder{
+   font-family: "Rubik","Arial",sans-serif;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 17px;
+   color: #8d8d8d;
+}
+
+.translate-list{
+   display: flex;
+   align-items: center;
+   width: 70px;
+   background-color:#dce6ff;
+   padding: 0;
+   list-style: none;
+   border-radius: 39px;
+   padding: 3px;
+   display: flex;
+   justify-content: space-between;
+}
+
+.translate-item{
+   font-family: 'Rubik';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 13px;
+   line-height: 15px;
+   padding: 8px 7px 7px;
+}
+
+
+.translate-item-uz{
+   color:#000;
+   background-color:#fff;
+   border-radius: 39px;
+}
